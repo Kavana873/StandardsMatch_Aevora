@@ -1,0 +1,42 @@
+MUNICIPAL CORPORATION – PROCUREMENT DIVISION
+TENDER NOTICE: SUPPLY OF SAFETY AND ELECTRICAL MATERIALS FOR NEW COMMUNITY HOSPITAL BUILDING
+
+Department: Municipal Corporation, Engineering Wing
+Procurement item: Fire safety, electrical, lighting and construction materials
+Quantity: 200 nos fire extinguishers, 5000 bags cement, 1500 nos LED lamps
+
+Technical requirements:
+
+1. Fire safety
+   Supply of 4 kg ABC dry powder portable fire extinguishers for wards, corridors and offices.
+   Extinguishers shall conform to IS 15683:2006 and must pass pressure, corrosion, leakage and
+   vibration tests. The supplier shall also provide wheeled fire extinguishers for the generator room.
+   Selection, installation, inspection and maintenance schedule shall be included in the offer.
+
+2. Construction materials
+   Ordinary Portland Cement OPC 43 grade for RCC building works, meeting compressive strength,
+   fineness, soundness and setting time requirements. The supplier shall also quote for deformed
+   TMT reinforcement steel bars and structural steel E250 plates for the hospital frame.
+
+3. Electrical and lighting
+   9 W self-ballasted LED lamps and LED luminaire light fittings for general lighting, with
+   lumen output and safety requirements as per applicable standards.
+   Electrical wiring cable 1100 V with PVC insulation, and plug and socket outlets rated 16 A 250 V.
+
+4. Worker safety
+   Industrial safety helmets for construction workers with impact and penetration resistance,
+   and safety footwear with toe protection and perforation resistance.
+
+5. Water supply
+   UPVC pipes for potable water supply and rotational moulded overhead water storage tanks.
+
+Certification:
+All supplied products shall carry a valid BIS / ISI mark certification. Test reports and
+manufacturer certificates must be submitted along with the bid.
+
+Evaluation:
+The procurement team will review the recommended Indian Standards for each item, along with
+certification requirements, before finalizing the tender.
+
+Note: Demonstration input for the StandardsMatch SIH26108 prototype. Final applicability and
+certification decisions must be verified against current official BIS information.

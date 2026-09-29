@@ -1,0 +1,20 @@
+MUNICIPAL CORPORATION — ELECTRICAL DEPARTMENT
+PROCUREMENT REQUIREMENT — LED STREET LIGHTING
+
+Department: Municipal Corporation Electrical Wing
+Procurement item: Self-ballasted LED lamps and LED street-light luminaires
+Quantity: 800 LED lamps + 800 luminaire fixtures
+
+Technical requirement:
+1. LED lamps shall be self-ballasted, suitable for general lighting service, rated for 90-110% of supply voltage.
+2. Lamps shall meet safety requirements and performance requirements including lumen output, energy efficiency and BEE star rating.
+3. Luminaires shall meet general requirements and tests for outdoor street-light fixtures, including ingress protection and thermal performance.
+4. All LED lamps and luminaires shall carry valid BIS Compulsory Registration Order (CRO) certification for electronics products.
+5. Manufacturer shall provide test reports for photobiological safety and electromagnetic compatibility.
+6. The tender should also cover the wiring cable and circuit-breaker requirements for the associated electrical installation.
+
+Evaluation:
+The procurement team will review the recommended Indian Standards for LED lamp safety, LED lamp performance, luminaires and related electrical-installation standards, along with mandatory certification requirements, before finalizing the tender.
+
+Note:
+This document is a demonstration input for the StandardsMatch SIH26108 prototype. Final applicability and certification decisions must be verified against current official BIS information.

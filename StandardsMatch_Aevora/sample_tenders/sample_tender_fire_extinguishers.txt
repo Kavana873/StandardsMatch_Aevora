@@ -1,0 +1,26 @@
+GOVERNMENT DISTRICT OFFICE
+PROCUREMENT REQUIREMENT — PORTABLE FIRE EXTINGUISHERS
+
+Department: District Administrative Office
+Procurement item: Portable ABC dry-powder fire extinguishers
+Application: Protection of occupied government office buildings, electrical rooms and common areas
+Quantity: 40 units
+
+Technical requirement:
+1. The supplied extinguishers shall be portable and suitable for first-response fire protection.
+2. Extinguishing media shall be ABC dry powder.
+3. Nominal charge capacity shall be 4 kg per unit.
+4. The units shall be suitable for Class A, Class B and Class C fire risks.
+5. Cylinder construction shall provide adequate resistance to corrosion and normal handling impacts.
+6. The extinguisher shall have safe operating pressure and reliable discharge performance.
+7. The product shall include clear operating instructions, identification/marking and tamper-resistant safety arrangements.
+8. The supplier shall provide evidence of product performance and construction testing, including relevant pressure, leakage, corrosion and performance checks.
+9. The supplied equipment shall support inspection, periodic maintenance and servicing after installation.
+10. The supplier shall provide guidance for appropriate selection, installation and placement in occupied office areas.
+11. The procurement specification should identify applicable Indian Standards and BIS certification requirements. The officer should not have to know the IS number in advance.
+
+Evaluation:
+The procurement team will review the recommended Indian Standards, supporting evidence, related installation/maintenance standards and certification information before finalizing the tender.
+
+Note:
+This document is a demonstration input for the StandardsMatch SIH26108 prototype. Final applicability and certification decisions must be verified against current official BIS information.

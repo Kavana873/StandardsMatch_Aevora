@@ -1,0 +1,21 @@
+PUBLIC WORKS DEPARTMENT — CIVIL DIVISION
+PROCUREMENT REQUIREMENT — ORDINARY PORTLAND CEMENT
+
+Department: State Public Works Department
+Procurement item: Ordinary Portland Cement (OPC) for RCC building works
+Quantity: 5000 bags (50 kg each)
+
+Technical requirement:
+1. The cement shall be Ordinary Portland Cement, OPC 43 grade, suitable for general RCC construction.
+2. The cement shall meet the required 28-day, 7-day and 3-day compressive strength values.
+3. Fineness, soundness and setting-time properties shall conform to the applicable Indian Standard.
+4. The cement shall be manufactured by grinding clinker with gypsum and permitted performance improvers.
+5. Bags shall be marked with manufacturing date, grade and batch number.
+6. The supplier shall also quote for high-strength deformed reinforcement steel bars for the RCC work and plywood for concrete shuttering, to be procured together with the cement.
+7. The supplier shall provide valid BIS/ISI mark certification for the supplied cement.
+
+Evaluation:
+The procurement team will review the recommended Indian Standards for cement, reinforcement steel and shuttering material, along with certification requirements, before finalizing the tender.
+
+Note:
+This document is a demonstration input for the StandardsMatch SIH26108 prototype. Final applicability and certification decisions must be verified against current official BIS information.
